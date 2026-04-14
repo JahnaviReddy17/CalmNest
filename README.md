@@ -179,27 +179,6 @@ npm run dev
 
 ---
 
-## 🌐 Deployment
-
-### Backend (Render)
-
-* Connect GitHub repo
-* Add environment variables
-* Deploy as Web Service
-
-### Frontend (Vercel)
-
-* Import repo
-* Set:
-
-```env
-VITE_API_URL=https://your-backend-url.onrender.com
-```
-
-* Deploy
-
----
-
 ## 🎨 UI/UX Highlights
 
 * Calm, wellness-focused design
